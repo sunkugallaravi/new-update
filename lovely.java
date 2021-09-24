@@ -1,0 +1,5 @@
+{
+	main
+		lovely
+		handsome
+}

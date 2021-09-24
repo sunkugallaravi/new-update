@@ -1,0 +1,4 @@
+{
+	main
+		love you bangaram
+}
